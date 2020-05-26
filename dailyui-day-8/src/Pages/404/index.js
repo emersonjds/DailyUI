@@ -15,7 +15,6 @@ const defaultOptions = {
 const PageNotFound = () => (
   <Container>
     <Lottie options={defaultOptions} height="100vh" width="100vw"></Lottie>
-    Not Found
   </Container>
 );
 
