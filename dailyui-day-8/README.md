@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn`
 ### `yarn start`
 
 ## Libraries
@@ -11,5 +12,5 @@ In the project directory, you can run:
 * Lottie
 * Styled-Components
 
-
+![Screenshot](screenshot.png)
 
